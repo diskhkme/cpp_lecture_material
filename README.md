@@ -14,6 +14,6 @@
 
 ## Contact
 
-전북대학교 컴퓨터인공지능학부 김형기
+충남대학교 컴퓨터융합학부 김형기
 
-hk.kim@jbnu.ac.kr
+hk.kim@cnu.ac.kr
